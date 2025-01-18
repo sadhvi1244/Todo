@@ -1,8 +1,54 @@
-# React + Vite
+## To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and efficient To-Do application designed to help users organize their tasks effectively. Built using React.js, this app provides a simple yet powerful interface for managing daily activities.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Add, edit, and delete tasks.
+
+-Persistent data storage with localStorage.
+
+-Responsive design for seamless use across devices.
+
+## Tech Stack
+
+**Client:** React, TailwindCSS
+
+**Server:** Node
+
+## Installation 
+
+To get started with the To-Do App App, follow these steps:
+
+1. Clone the Repository
+
+
+```bash
+[git clone https://github.com/sadhvi1244/To-Do-App.git  ](https://github.com/sadhvi1244/Todo.git)
+
+```
+3. Install Dependencies
+
+```bash
+npm install
+```
+
+4. Navigate to the Project Directory
+
+```bash
+npm run dev
+```
+This will start the development server, and you can access the app at http://localhost:5174/.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/sadhvi1244/Todo/blob/main/Screenshot%202025-01-18%20164952.png?raw=true)
+
+## 🚀 About Me
+
+
+Hi 👋, I'm Sadhvi Kesarwani
+
+A passionate and driven to-be software engineer with expertise in Java programming, and Front-End web developer from India.
+
